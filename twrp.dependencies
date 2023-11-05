@@ -1,6 +1,8 @@
 [
   {
+    "remote": "kaka-build-start",
     "repository": "android_device_xiaomi_mithorium-common",
-    "target_path": "device/xiaomi/mithorium-common"
+    "target_path": "device/xiaomi/mithorium-common",
+    "branch": "android-12.1"
   }
 ]
